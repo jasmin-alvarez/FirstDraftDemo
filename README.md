@@ -1,7 +1,4 @@
 
-![Photo](public/photo.png)
-![Photo2](public/img/photo2.png)
-
 
 
 
